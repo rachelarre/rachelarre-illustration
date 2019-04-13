@@ -1,0 +1,45 @@
+body {
+  color: #000034;
+  background: #f1f1f1;
+  font-family: "Open Sans", san-sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 64px;
+  text-decoration: underline dotted pink;
+}
+
+h2 {
+  text-align: left;
+  font-style: normal;
+  letter-spacing: 4px;
+  font-size: 24px;
+  margin-left: 64px;
+}
+
+h4 {
+  text-align: right;
+  font-style: normal;
+  letter-spacing: 4px;
+  font-size: 12px;
+  margin-right: 216px;
+}
+
+img {
+  border-radius: 2px;
+  max-height: 480px;
+  margin: 20px;
+  box-shadow: 10px 10px 8px 10px #dadada;
+}
+
+.portfolioImg {
+  text-align: center;
+}
+
+.icon {
+  max-height: 40px;
+  box-shadow: 0;
+}
